@@ -4,4 +4,4 @@ I'm a fullstack developer based in Sweden, working primarily with React, TypeScr
 
 Currently developing [Brew-even](https://breweven.app/) — a cost calculator for home baristas.
 
-More about me and my projects at [oscarnilsson.dev](https://oscarnilsson.dev/).
+More about me and my projects at [oscarnilsson.dev](https://oscarnilsson.dev/?ref=github).
